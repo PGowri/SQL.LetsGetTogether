@@ -1,1 +1,1 @@
-SELECT * FROM Enrolments LEFT JOIN students ON StudentID = EnrolmentsID;
+SELECT * FROM Enrolments LEFT JOIN students ON Students.StudentID = Enrolments.StudentID;
