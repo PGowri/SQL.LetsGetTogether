@@ -1,0 +1,1 @@
+SELECT * FROM Enrolments LEFT JOIN students ON StudentID = EnrolmentsID;
